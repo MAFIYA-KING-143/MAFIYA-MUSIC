@@ -35,7 +35,7 @@ async def start(_, msg):
 ],
 [
               InlineKeyboardButton("ＭＡＩＮ ＢＯＴ", url=f"https://t.me/ll_PROFESSOR_BOT"),
-              InlineKeyboardButton("︎ＭＹ ＲＥＰＯ", url=f"https://github.com/Sagexdd/SAGE_MUSIC"),
+              InlineKeyboardButton("︎ＭＹ ＲＥＰＯ", url=f"https://sourabh.apikey.online"),
               
     ]]
     
