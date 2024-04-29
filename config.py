@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Rambovip7388/STRANGER-MUSIC",
+    "https://github.com/MAFIYA-KING-143/MAFIYA-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PROFESSOR_NETWORK")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Friends_Chatting_Group_Friends_0")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BROKEN_0117")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ROYAL_FRAIND_0118")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
